@@ -1,0 +1,29 @@
+langchain
+langchain-core
+
+langchain-openai
+openai
+
+langchain-anthropic
+
+langchain-google-genai
+google-generativeai
+
+langchain-huggingface
+transformers
+huggingface-hub
+
+python-dotenv
+numpy
+scikit-learn
+
+#Local Vector Store FAISS
+faiss-cpu
+faiss-gpu
+
+#Document Extraction
+PyPDF2
+
+pyaudio
+pyttsx3
+SpeechRecognition
